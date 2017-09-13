@@ -1,3 +1,13 @@
+
+set names utf8;
+
+
+
+create database workflow;
+
+use workflow;
+
+
 /*
 Navicat MySQL Data Transfer
 
