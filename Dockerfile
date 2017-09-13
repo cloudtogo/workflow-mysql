@@ -1,5 +1,5 @@
 FROM mysql:5.7
 
 
-COPY ./workflow3.sql /docker-entrypoint-initdb.d/
+COPY ./workflow4.sql /docker-entrypoint-initdb.d/
 
